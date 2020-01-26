@@ -1,4 +1,3 @@
-# Container CI/CD using Jenkins and Kubernetes on Azure Container Service (AKS)
 # NEO Airlines Case Study by Ibrahim Dauda
 ## Container CI/CD using Jenkins and Kubernetes on Azure Container Service (AKS)
 
