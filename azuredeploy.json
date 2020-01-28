@@ -16,7 +16,7 @@
     },
     "linuxAdminUsername": {
       "type": "string",
-      "defaultValue": "kubernetes26jan20xyz",
+      "defaultValue": "kubernetes28jan20xyz",
       "metadata": {
         "description": "User name for the Linux Virtual Machines (Jenkins and Kubernetes)."
       }
@@ -36,14 +36,14 @@
     },
     "cosmosDbName": {
       "type": "string",
-      "defaultValue": "kubernetes26jan20xyz",
+      "defaultValue": "kubernetes28jan20xyz",
       "metadata": {
         "description": "Name of the CosmosDB."
       }
     },
     "acrName": {
       "type": "string",
-      "defaultValue": "kubernetes26jan20xyz",
+      "defaultValue": "kubernetes28jan20xyz",
       "metadata": {
         "description": "Name of the Azure Container Registery. The name may contain alpha numeric characters only and must be between 5 and 50 characters."
       }
@@ -78,14 +78,14 @@
     },
     "kubernetesDnsPrefix": {
       "type": "string",
-      "defaultValue": "kubernetes26jan20xyz",
+      "defaultValue": "kubernetes28jan20xyz",
       "metadata": {
         "description": "Optional DNS prefix to use with hosted Kubernetes API server FQDN."
       }
     },
     "kubernetesClusterName": {
       "type": "string",
-      "defaultValue": "kubernetes26jan20xyz",
+      "defaultValue": "kubernetes28jan20xyz",
       "metadata": {
         "description": "The name of the Managed Cluster resource."
       }
