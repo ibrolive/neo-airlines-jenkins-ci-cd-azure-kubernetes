@@ -1,16 +1,16 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: hello-world-deployment
+  name: jhipster
 spec:
   replicas: 2
   template:
     metadata:
       labels:
-        app: hello-world
+        app: jhipster
     spec:
       containers:
-      - name: hello-world
+      - name: jhipster
         image: $TAGGED_IMAGE_NAME
         ports:
         - containerPort: 80

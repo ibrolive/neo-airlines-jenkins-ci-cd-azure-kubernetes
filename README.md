@@ -1,4 +1,4 @@
-# NEO Airlines Case Study by Ibrahim Dauda
+# NEO Airlines Case Study by Ibrahim Dauda.
 ## Container CI/CD using Jenkins and Kubernetes on Azure Container Service (AKS)
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fibrolive%2Fneo-airlines-jenkins-ci-cd-azure-kubernetes%2Fmaster%2Fazuredeploy.json" rel="nofollow">
