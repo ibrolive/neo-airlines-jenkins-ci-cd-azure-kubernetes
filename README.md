@@ -2,11 +2,11 @@
 ## Container CI/CD using Jenkins and Kubernetes on Azure Container Service (AKS)
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fibrolive%2Fneo-airlines-jenkins-ci-cd-azure-kubernetes%2Fmaster%2Fazuredeploy.json" rel="nofollow">
-<img src="https://raw.githubusercontent.com/ibrolive/neo-airlines-jenkins-ci-cd-azure-kubernetes/images/deploytoazure.png" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/ibrolive/neo-airlines-jenkins-ci-cd-azure-kubernetes/master/images/deploytoazure.png" style="max-width:100%;">
 </a>
 
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fibrolive%2Fneo-airlines-jenkins-ci-cd-azure-kubernetes%2Fmaster%2Fazuredeploy.json" rel="nofollow">
-<img src="https://raw.githubusercontent.com/ibrolive/neo-airlines-jenkins-ci-cd-azure-kubernetes/images/visualizebutton.png" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/ibrolive/neo-airlines-jenkins-ci-cd-azure-kubernetes/master/images/visualizebutton.png" style="max-width:100%;">
 </a>
 
 ## Architecture Diagram
